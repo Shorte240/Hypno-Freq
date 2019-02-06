@@ -1,0 +1,19 @@
+fileFormatVersion: 2
+guid: cebb5c23f4da27c4abda302fc95ca797
+timeCreated: 1517093132
+licenseType: Free
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - TimerObj: {instanceID: 0}
+  - TimeText: {instanceID: 0}
+  - TimeBar: {instanceID: 0}
+  - menuButton: {instanceID: 0}
+  - pauseButton: {instanceID: 0}
+  - pauseImage: {fileID: 21300000, guid: 2abc2fb5fee39b04c9ca93eedd2a69cb, type: 3}
+  - resumeImage: {fileID: 21300000, guid: b6465d6cc5429ff4db59b5250d462603, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
